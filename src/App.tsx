@@ -84,7 +84,7 @@ function App() {
   return (
     <div className="min-h-screen bg-gray-50">
       {/* Header */}
-      <div className="bg-gradient-to-r from-blue-600 to-cyan-600 text-white p-6 shadow-lg">
+      <div className="bg-gradient-to-r from-blue-900 to-blue-600 text-white p-6 shadow-lg">
         <div className="max-w-7xl mx-auto">
           <div className="flex justify-between items-start mb-2">
             <div>
